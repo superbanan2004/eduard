@@ -1,0 +1,37 @@
+main
+{ height: 500px;
+color: beige;
+font-size: 500px;
+text-align: center;
+font-family: cursive;
+}
+body{
+    color: beige;
+    padding: 100px;
+    font-size: 100px;
+    
+    
+    background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT8enEi739nf3zYPSYPkPMVwQmA44ZKXEibqw&s);
+    background-size: cover;
+}
+.conteiner  {
+    background-color: aqua;
+}
+.block1 {
+    font-size: 20px;
+    text-align: justify;
+}
+.block2 {
+    text-align: center;
+}
+.social img {
+    width: 100px;
+    padding-left: 10px;
+}
+
+.social {
+    list-style: none;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
